@@ -88,6 +88,46 @@ style: |
 
 <div class="col">
 
+### 🦉 Duolingo for Schools <!-- fit-->
+
+![](./imgs/duolingo0.png)
+
+</div>
+
+<div class="col">
+<b>Descrição e Potencial Educativo</b><br>
+Plataforma online para organização de aulas de e exercicios personalizados de inglês. Feito para professores organizarem mo conteudo e exercicio dos alunos.
+</div>
+
+</div>
+
+---
+
+<div class="columns">
+
+<div class="col">
+
+### 🦉 Duolingo for Schools <!-- fit-->
+
+![](/imgs/duolingo1.png)
+
+</div>
+
+<div class="col">
+<b>Ação Educativa Sugerida</b><br>
+<b>Clube de Programação e Lógica</b><br><br>
+
+Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando algoritmos e lógica computacional com colaboração em tempo real.
+</div>
+
+</div>
+
+---
+
+<div class="columns">
+
+<div class="col">
+
 ### 💻 Replit <!-- fit-->
 
 </div>
@@ -116,6 +156,7 @@ Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando al
 </div>
 
 </div>
+
 
 ---
 
@@ -166,4 +207,5 @@ Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando al
 
 - TinkerCad: https://www.tinkercad.com/
 - Replit: https://replit.com/
+- DuolingoForSchools: https://schools.duolingo.com/
 - BirdsNoGrau: https://kilviasantos.github.io/BirdsNoGrau/
