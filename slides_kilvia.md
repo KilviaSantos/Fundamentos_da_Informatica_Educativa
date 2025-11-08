@@ -13,24 +13,6 @@ style: |
   }
 ---
 
-# 🎯 Objetivo da Apresentação
-
-Apresentar **ferramentas digitais com potencial educativo** para aplicação em sala de aula, destacando os seguintes aspectos:
-
-- **Adequação ao nível escolar**  
-  Identificar em quais etapas da Educação Básica cada ferramenta pode ser aplicada com eficácia.
-
-- **Facilidade de uso**  
-  Avaliar a acessibilidade, a interface e os recursos disponíveis para alunos e professores.
-
-- **Potencial pedagógico**  
-  Explorar como cada ferramenta contribui para o desenvolvimento de competências cognitivas, digitais e socioemocionais.
-
-- **Proposta de ação educativa**  
-  Sugerir atividades práticas e contextualizadas que podem ser realizadas em sala de aula utilizando cada ferramenta.
-
----
-
 # 🎓 Ferramentas de Informática Educativa  
 ## Aplicações na Educação Básica
 
@@ -42,6 +24,25 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 > Por Kilvia Santos
 
 ---
+
+# 🎯 Objetivo da Apresentação
+
+Apresentar **ferramentas digitais com potencial educativo** para aplicação em sala de aula, destacando os seguintes aspectos:
+
+<br>
+
+- **Facilidade de uso**  
+  <!-- Avaliar a acessibilidade, a interface e os recursos disponíveis para alunos e professores. -->
+
+- **Potencial pedagógico**  
+  <!-- Explorar como cada ferramenta contribui para o desenvolvimento de competências cognitivas, digitais e socioemocionais. -->
+
+- **Proposta de ação educativa**  
+  <!-- Sugerir atividades práticas e contextualizadas que podem ser realizadas em sala de aula utilizando cada ferramenta. -->
+
+---
+
+
 
 # Contexto
 
@@ -60,6 +61,11 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
   <div class="col">
 
 ### 🧠 Khan Academy <!-- fit -->
+
+<br>
+
+![](./imgs/khan0.png)
+
   </div>
   <div class="col">
     <b>Descrição e Potencial Educativo</b><br>
@@ -73,6 +79,11 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
   <div class="col">
 
 ### 🧠 Khan Academy <!-- fit -->
+
+<br>
+
+![](./imgs/khan1.png)
+
   </div>
   <div class="col">
     <b>Ação Educativa Sugerida</b><br>
@@ -88,6 +99,11 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
   <div class="col">
 
 ### 🧩 Code.org <!-- fit -->
+
+<br>
+
+![](./imgs/code0.png)
+
   </div>
   <div class="col">
     <b>Descrição e Potencial Educativo</b><br>
@@ -101,6 +117,11 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
   <div class="col">
 
 ### 🧩 Code.org <!-- fit -->
+
+<br>
+
+![](./imgs/code1.png)
+
   </div>
   <div class="col">
     <b>Ação Educativa Sugerida</b><br>
@@ -116,6 +137,10 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
   <div class="col">
 
 ### 🧵 Padlet <!-- fit -->
+
+<br>
+
+![](./imgs/padlet0.png)
   </div>
   <div class="col">
     <b>Descrição e Potencial Educativo</b><br>
@@ -129,6 +154,11 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
   <div class="col">
 
 ### 🧵 Padlet <!-- fit -->
+
+<br>
+
+![](./imgs/padlet1.png)
+
   </div>
   <div class="col">
     <b>Ação Educativa Sugerida</b><br>
@@ -142,6 +172,8 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 # 🎮 II. Ferramenta Criada em conjunto
 
+![bg right](./imgs/birdsnograu.png)
+
 
 ---
 
@@ -150,7 +182,11 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 ### 🐦 Birds no Grau <!-- fit -->
 
+
+
 > link: https://kilviasantos.github.io/BirdsNoGrau/
+
+
 
   </div>
   <div class="col">
@@ -183,16 +219,19 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 As ferramentas apresentadas promovem:
 
 - **Aprendizagem ativa**  
-  Os alunos se tornam protagonistas do processo de ensino, explorando, criando e resolvendo problemas.
-
+<!--  Os alunos se tornam protagonistas do processo de ensino, explorando, criando e resolvendo problemas.
+-->
 - **Inclusão digital**  
-  O uso de plataformas acessíveis amplia o acesso à tecnologia e reduz desigualdades educacionais.
-
+<!--   O uso de plataformas acessíveis amplia o acesso à tecnologia e reduz desigualdades educacionais.
+-->
 - **Desenvolvimento de competências da BNCC**  
-  As atividades propostas estão alinhadas às competências gerais, como pensamento científico, cultura digital, comunicação e colaboração.
+<!--  As atividades propostas estão alinhadas às competências gerais, como pensamento científico, cultura digital, comunicação e colaboração.
+-->
+<hr>
 
-
-**A integração dessas tecnologias potencializa o engajamento e a autonomia dos alunos**, tornando o ambiente escolar mais dinâmico, inclusivo e conectado com os desafios do século XXI.
+**A integração dessas tecnologias potencializa o engajamento e a autonomia dos alunos**
+<!-- , tornando o 
+ambiente escolar mais dinâmico, inclusivo e conectado com os desafios do século XXI. -->
 
 
 ---

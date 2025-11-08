@@ -25,6 +25,22 @@ style: |
 
 > Por Abraão Alves
 
+--- 
+# 🎯 Agenda 
+
+Apresentar **ferramentas digitais com potencial educativo** para aplicação em sala de aula, destacando os seguintes aspectos:
+
+<br>
+
+- **Facilidade de uso**  
+  <!-- Avaliar a acessibilidade, a interface e os recursos disponíveis para alunos e professores. -->
+
+- **Potencial pedagógico**  
+  <!-- Explorar como cada ferramenta contribui para o desenvolvimento de competências cognitivas, digitais e socioemocionais. -->
+
+- **Proposta de ação educativa**  
+  <!-- Sugerir atividades práticas e contextualizadas que podem ser realizadas em sala de aula utilizando cada ferramenta. -->
+
 ---
 
 # Contexto
@@ -44,6 +60,10 @@ style: |
   <div class="col">
 
 ### 🔧 Tinkercad <!-- fit -->
+<br>
+
+![](./imgs/tinker3.png)
+
 
   </div>
   <div class="col">
@@ -65,6 +85,10 @@ style: |
 
 
 ### 🔧 Tinkercad <!-- fit -->
+
+<br>
+
+![](./imgs/tinker2.png)
 
   </div>
   <div class="col">
@@ -162,6 +186,8 @@ Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando al
 
 
 # 🎮 II. Ferramenta Criada em conjunto
+
+![bg right](./imgs/birdsnograu.png)
 
 ---
 
