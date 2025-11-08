@@ -159,10 +159,15 @@ Alunos, competem entre si para se destacar nas tarefas, dia, na semana e em todo
 
 ### 💻 Replit <!-- fit-->
 
+<br>
+
+![](./imgs/replit0.png)
+
 </div>
 
 <div class="col">
-<b>Descrição e Potencial Educativo</b><br>
+<b>Descrição e Potencial Educativo</b><br><br>
+
 Plataforma online para programação em linguagens como Python, JavaScript e HTML. Estimula competências digitais, resolução de problemas e trabalho em equipe.
 </div>
 
@@ -180,7 +185,7 @@ Plataforma online para programação em linguagens como Python, JavaScript e HTM
 
 <div class="col">
 <b>Ação Educativa Sugerida</b><br>
-<b>Clube de Programação e Lógica</b><br>
+<b>Clube de Programação e Lógica</b><br><br>
 Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando algoritmos e lógica computacional com colaboração em tempo real.
 </div>
 
