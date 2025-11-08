@@ -1,0 +1,240 @@
+---
+marp: true
+paginate: true
+style: |
+  .columns {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+  }
+  .col {
+    flex: 1;
+    padding: 0 1em;
+  }
+---
+
+
+
+# 🎓 Ferramentas de Informática Educativa  
+## Aplicações na Educação Básica
+
+<hr>
+<br>
+<br>
+<br>
+
+> Por Abraão Alves e Kilvia Santos
+
+---
+
+# 🧩 I. Ferramentas do Arquivo Abraão
+
+---
+
+<div class="columns">
+
+  <div class="col">
+
+### 🔧 Tinkercad <!-- fit -->
+
+  </div>
+  <div class="col">
+
+  <b>Descrição e Potencial Educativo</b>
+  <p>
+  Plataforma gratuita da Autodesk para design 3D, simulação de circuitos e programação com blocos. Ideal para robótica educacional e ensino interdisciplinar (STEM). Estimula pensamento crítico, criatividade e resolução de problemas.
+
+  </p>
+  </div>
+
+</div>
+ 
+---
+
+<div class="columns">
+
+  <div class="col">
+
+
+### 🔧 Tinkercad <!-- fit -->
+
+  </div>
+  <div class="col">
+
+## Ação Educativa Sugerida
+
+<b>Projeto Maker Interdisciplinar</b>
+
+<p>
+  Alunos do Ensino Médio projetam e simulam um circuito de semáforo inteligente com Arduino, integrando Física e Tecnologia.
+</p>
+
+  </div>
+
+</div>
+
+
+---
+
+<div class="columns">
+
+<div class="col">
+
+### 💻 Replit <!-- fit-->
+
+</div>
+
+<div class="col">
+<b>Descrição e Potencial Educativo</b><br>
+Plataforma online para programação em linguagens como Python, JavaScript e HTML. Estimula competências digitais, resolução de problemas e trabalho em equipe.
+</div>
+
+</div>
+
+---
+
+<div class="columns">
+
+<div class="col">
+
+### 💻 Replit <!-- fit-->
+
+</div>
+
+<div class="col">
+<b>Ação Educativa Sugerida</b><br>
+<b>Clube de Programação e Lógica</b><br>
+Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando algoritmos e lógica computacional com colaboração em tempo real.
+</div>
+
+</div>
+
+
+
+---
+
+# 📚 II. Ferramentas do Arquivo Kilvia
+
+
+---
+
+<div class="columns">
+  <div class="col">
+
+### 🧠 Khan Academy <!-- fit -->
+  </div>
+  <div class="col">
+    <b>Descrição e Potencial Educativo</b><br>
+    Plataforma gratuita com conteúdos em diversas áreas, com trilhas organizadas por nível. Promove autonomia, raciocínio lógico e aprendizado progressivo.
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="col">
+
+### 🧠 Khan Academy <!-- fit -->
+  </div>
+  <div class="col">
+    <b>Ação Educativa Sugerida</b><br>
+    <b>Reforço e Aceleração Individualizada</b><br>
+    O professor propõe trilhas de exercícios para revisão ou avanço em Matemática, permitindo que cada aluno progrida no seu ritmo.
+  </div>
+</div>
+
+---
+
+
+<div class="columns">
+  <div class="col">
+
+### 🧩 Code.org <!-- fit -->
+  </div>
+  <div class="col">
+    <b>Descrição e Potencial Educativo</b><br>
+    Plataforma gratuita para ensino de programação e pensamento computacional. Utiliza blocos visuais e JavaScript. Estimula criatividade, lógica e colaboração.
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="col">
+
+### 🧩 Code.org <!-- fit -->
+  </div>
+  <div class="col">
+    <b>Ação Educativa Sugerida</b><br>
+    <b>Hora do Código</b><br>
+    Alunos do Ensino Fundamental programam a movimentação de personagens em desafios visuais, desenvolvendo pensamento algorítmico de forma lúdica.
+  </div>
+</div>
+
+---
+
+
+<div class="columns">
+  <div class="col">
+
+### 🧵 Padlet <!-- fit -->
+  </div>
+  <div class="col">
+    <b>Descrição e Potencial Educativo</b><br>
+    Ferramenta colaborativa para criação de murais digitais com textos, imagens e vídeos. Favorece construção coletiva do conhecimento e competências socioemocionais.
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="col">
+
+### 🧵 Padlet <!-- fit -->
+  </div>
+  <div class="col">
+    <b>Ação Educativa Sugerida</b><br>
+    <b>Mural Colaborativo de Análise Literária</b><br>
+    Após a leitura de um livro, alunos do Ensino Médio compartilham interpretações, citações e imagens em um Padlet, estimulando argumentação e comunicação.
+  </div>
+</div>
+
+---
+
+
+# 🎮 III. Ferramenta Criada no Arquivo Dupla
+
+
+---
+
+<div class="columns">
+  <div class="col">
+
+### 🐦 Birds no Grau <!-- fit -->
+
+> link: https://kilviasantos.github.io/BirdsNoGrau/
+
+  </div>
+  <div class="col">
+    <b>Descrição e Potencial Educativo</b><br>
+    Jogo digital em HTML, CSS e JavaScript que simula a trajetória de uma função quadrática. Permite inserção de coeficientes e visualização da parábola em tempo real. Utiliza gamificação e aprendizagem por descoberta.
+  </div>
+</div>
+
+---
+
+<div class="columns">
+  <div class="col">
+
+### 🐦 Birds no Grau <!-- fit -->
+
+> link: https://kilviasantos.github.io/BirdsNoGrau/
+
+  </div>
+  <div class="col">
+    <b>Ação Educativa Sugerida</b><br>
+    <b>Desafio do Coeficiente</b><br>
+    Na lousa digital, o professor propõe que os alunos ajustem os coeficientes a, b e c para acertar um alvo. A atividade proporciona feedback visual imediato e compreensão intuitiva da função quadrática.
+  </div>
+</div>
+
