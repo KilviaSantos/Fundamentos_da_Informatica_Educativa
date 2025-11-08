@@ -114,6 +114,8 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 ### 🦉 Duolingo for Schools <!-- fit-->
 
+<br>
+
 ![](./imgs/duolingo0.png)
 
 </div>
@@ -133,15 +135,18 @@ Plataforma online para organização de aulas de e exercicios personalizados de 
 
 ### 🦉 Duolingo for Schools <!-- fit-->
 
+<br>
+
 ![](/imgs/duolingo1.png)
 
 </div>
 
 <div class="col">
 <b>Ação Educativa Sugerida</b><br>
-<b>Clube de Programação e Lógica</b><br><br>
+<b>English Club</b><br><br>
 
-Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando algoritmos e lógica computacional com colaboração em tempo real.
+Alunos, competem entre si para se destacar nas tarefas, dia, na semana e em todo o histórico escolar. O professor cria a turma e acompanha o desenvolvimento de cada aluno durante essa jornada
+
 </div>
 
 </div>
