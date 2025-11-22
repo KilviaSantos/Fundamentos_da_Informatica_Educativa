@@ -1,6 +1,6 @@
 {
   "marp": {
-    "inputDir": "./",
+    "inputDir": "./src",
     "output": "./_site"
   }
 }
