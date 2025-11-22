@@ -1,6 +1,7 @@
 {
   "marp": {
     "inputDir": "./src",
-    "output": "./_site"
+    "output": "./_site",
+    "allowLocalFiles": true
   }
 }
