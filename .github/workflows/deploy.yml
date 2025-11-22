@@ -29,6 +29,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
+      - name: upload Images to _site gh Pages
+        run: cp -r src/imgs/* _site/imgs/
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
