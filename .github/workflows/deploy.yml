@@ -26,11 +26,11 @@ jobs:
       - name: Convert Markdown into HTML and PDF
         uses: KoharaKazuya/marp-cli-action@v4
 
+      - name: upload Images to _site gh Pages
+        run: mkdir _site/imgs && cp -r src/imgs/* _site/imgs/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
-      - name: upload Images to _site gh Pages
-        run: cp -r src/imgs/* _site/imgs/
 
       - name: Deploy to GitHub Pages
         id: deployment
