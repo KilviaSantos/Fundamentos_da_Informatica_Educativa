@@ -48,7 +48,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 ## Jim Wilson
 
-![bg right](../imgs/codeorg1.png)
+![bg right](./imgs/codeorg1.png)
 
 ---
 
@@ -64,7 +64,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/khan0.png)
+![](./imgs/khan0.png)
 
   </div>
   <div class="col">
@@ -82,7 +82,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/khan1.png)
+![](./imgs/khan1.png)
 
   </div>
   <div class="col">
@@ -102,7 +102,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/code0.png)
+![](./imgs/code0.png)
 
   </div>
   <div class="col">
@@ -120,7 +120,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/code1.png)
+![](./imgs/code1.png)
 
   </div>
   <div class="col">
@@ -140,7 +140,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/padlet0.png)
+![](./imgs/padlet0.png)
   </div>
   <div class="col">
     <b>Descrição e Potencial Educativo</b><br>
@@ -157,7 +157,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/padlet1.png)
+![](./imgs/padlet1.png)
 
   </div>
   <div class="col">
@@ -172,7 +172,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 # 🎮 II. Ferramenta Criada em conjunto
 
-![bg right](../imgs/birdsnograu.png)
+![bg right](./imgs/birdsnograu.png)
 
 
 ---

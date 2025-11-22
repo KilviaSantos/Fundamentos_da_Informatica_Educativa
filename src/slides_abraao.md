@@ -47,7 +47,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 ## EMEIF João Estanislau Façanha
 
-![bg right](../imgs/tinker1.png)
+![bg right](./imgs/tinker1.png)
 
 ---
 
@@ -62,7 +62,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 ### 🔧 Tinkercad <!-- fit -->
 <br>
 
-![](../imgs/tinker3.png)
+![](./imgs/tinker3.png)
 
 
   </div>
@@ -88,7 +88,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/tinker2.png)
+![](./imgs/tinker2.png)
 
   </div>
   <div class="col">
@@ -116,7 +116,7 @@ Apresentar **ferramentas digitais com potencial educativo** para aplicação em 
 
 <br>
 
-![](../imgs/duolingo0.png)
+![](./imgs/duolingo0.png)
 
 </div>
 
@@ -161,7 +161,7 @@ Alunos, competem entre si para se destacar nas tarefas, dia, na semana e em todo
 
 <br>
 
-![](../imgs/replit0.png)
+![](./imgs/replit0.png)
 
 </div>
 
@@ -197,7 +197,7 @@ Alunos, em duplas, desenvolvem um jogo de adivinhação em Python, praticando al
 
 # 🎮 II. Ferramenta Criada em conjunto
 
-![bg right](../imgs/birdsnograu.png)
+![bg right](./imgs/birdsnograu.png)
 
 ---
 
